@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import CardList from '../components/CardList.js';
 import SearchBox from '../components/SearchBox.js';
 import Scroll from '../components/Scroll.js';
+import './App.css'
 class App extends Component {
   constructor() {
     super();
